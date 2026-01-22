@@ -5,7 +5,6 @@
 
 #### Developer section:
 * [CollapseScanner](https://github.com/CollapseLoader/CollapseScanner) - Minecraft clients scanning tool for various threats
-* [CollapseWeb](https://github.com/dest4590/CollapseWeb) - Our REST-API for connecting the [loader](https://github.com/dest4590/CollapseLoader) directly to the server side
 * [CollapseUpdater](https://github.com/CollapseLoader/CollapseUpdater) - Updater for our loader
 * [CollapseBot](https://github.com/dest4590/CollapseBot) - Our discord bot, has useful information in itself, and convenient statistics
 
