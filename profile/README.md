@@ -13,3 +13,8 @@
 * [Website](https://collapseloader.org/)
 * [Discord](https://collapseloader.org/discord/)
 * [Telegram](https://t.me/CollapseLoader)
+
+#### Official list of telegram channels:
+* [Main channel](https://t.me/CollapseLoader)
+* [Dev Logs](https://t.me/collapseloader_devlogs)
+* [Nightly releases](https://t.me/collapseloader_nightly)
